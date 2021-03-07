@@ -1,7 +1,7 @@
 ## CalculatorTest2
 
 The project is a ASP.NET MVC web app for a simple calculator.
-The calculator acceps two numbers from the user and sends Http requests using REST service to the web Api CalculatorTestWebService.
+The calculator accepts inputs from the user and sends Http requests using REST service to the web Api CalculatorTestWebService.
 The View is responsible for the rendering the view of calculator and result of the calculator.
 
 ## Screen shot of the Calculator Web App
