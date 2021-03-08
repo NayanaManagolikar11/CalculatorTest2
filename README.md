@@ -4,6 +4,7 @@ The project is a ASP.NET MVC web app for a simple calculator.
 The calculator accepts inputs from the user and sends Http requests using REST service to the web Api CalculatorTestWebService.
 The View is responsible for the rendering the view of calculator and result of the calculator.
 
+
 ## Screen shot of the Calculator Web App
  
  
@@ -13,4 +14,4 @@ The View is responsible for the rendering the view of calculator and result of t
 The SimpleCalculator class has GetPrimeNumber method to calculate nth prime number.
 
 ## Service Folder:
-Responsible for Rest service implementation.
+Responsible for Rest services implementation.
