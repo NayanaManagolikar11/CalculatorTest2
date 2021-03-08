@@ -11,3 +11,6 @@ The View is responsible for the rendering the view of calculator and result of t
 
 ## Model Folder: 
 The SimpleCalculator class has GetPrimeNumber method to calculate nth prime number.
+
+## Service Folder:
+Responsible for Rest service implementation.
